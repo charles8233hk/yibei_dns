@@ -1,0 +1,4 @@
+127.0.0.135 localhost
+127.0.0.135 *.baidu.com
+127.0.0.135 m.baidu.com
+127.0.0.135 www.baidu.com
