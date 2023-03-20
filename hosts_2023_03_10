@@ -1,33 +1,4 @@
-127.0.0.135 dnet.mb.qq.com
-127.0.0.135 histats.com
-127.0.0.135 vkceyugu.cdn.bspapp.com
-127.0.0.135 lf3-analytics.bytescm.com
-127.0.0.135 p3-be-pack-sign.pglstatp-toutiao.com
-127.0.0.135 p6-be-pack-sign.pglstatp-toutiao.com
-127.0.0.135 p11.douyinpic.com
-127.0.0.135 p12.douyinpic.com
-127.0.0.135 p13.douyinpic.com
-127.0.0.135 p14.douyinpic.com
-127.0.0.135 p15.douyinpic.com
-127.0.0.135 p16.douyinpic.com
-127.0.0.135 p17.douyinpic.com
-127.0.0.135 p18.douyinpic.com
-127.0.0.135 p19.douyinpic.com
-127.0.0.135 p20.douyinpic.com
-127.0.0.135 p21.douyinpic.com
-127.0.0.135 p22.douyinpic.com
-127.0.0.135 p23.douyinpic.com
-127.0.0.135 p24.douyinpic.com
-127.0.0.135 p25.douyinpic.com
-127.0.0.135 p26.douyinpic.com
-127.0.0.135 p1-ad-sign.byteimg.com
-127.0.0.135 p2-ad-sign.byteimg.com
-127.0.0.135 sf6-be-pack.pglstatp-toutiao.com
-127.0.0.135 static.yximgs.com
-127.0.0.135 p1-lm.adkwai.com
-127.0.0.135 p1-lm.adukwai.com
-127.0.0.135 p4.a.yximgs.com 
-127.0.0.135 v2.reachmax.cn
-127.0.0.135 zhuohangcn.com
-127.0.0.135 alhdl-cdn.zhanqi.tv
-@@||baidu.com^
+||baidu.com^
+||toutiao.com^
+||byteimg.com^
+||douyinpic.com^
